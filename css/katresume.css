@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(.//image/background.jpg);
+ }
+
+.info{
+    color: white; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 32px;
+    border: 4px solid white;
+   
+    
+}
+.educ{
+    
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 32px;
+    border: 4px solid white;
+   
+}
+.obj{
+    
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 32px;
+    border: 4px solid white;
+    
+}
+.body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 230%;
+    height: 230%;
+
+}
+
+.wrapper-main{
+    width: 1000px;
+    margin: 0 auto;
+ 
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 35px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.skills{
+    
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 33px;
+    border: 4px solid white;
+
+}
+.image{
+   display: flex;
+   justify-content: center;
+   align-items:center;
+}
+
+.image img{
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+    border: 4px solid white;
+    
+}
+.name{
+    text-align: justify;
+}
+
+.index-about{
+    width: 100%;
+    padding: 60px;
+    background-image: url(../image/background.jpg);
+}
